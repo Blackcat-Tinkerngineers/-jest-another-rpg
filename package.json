@@ -1,6 +1,7 @@
 {
-  "name": "cd",
+  "name": "jest-another-rpg",
   "version": "1.0.0",
+  "description": "",
   "main": "random.test.js",
   "directories": {
     "lib": "lib"
@@ -12,11 +13,10 @@
     "type": "git",
     "url": "git+https://github.com/Blackcat-Tinkerngineers/-jest-another-rpg.git"
   },
-  "author": "Chelsie L Bangloy-Gonsalves",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Blackcat-Tinkerngineers/-jest-another-rpg/issues"
   },
-  "homepage": "https://github.com/Blackcat-Tinkerngineers/-jest-another-rpg#readme",
-  "description": ""
+  "homepage": "https://github.com/Blackcat-Tinkerngineers/-jest-another-rpg#readme"
 }
